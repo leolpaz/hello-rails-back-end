@@ -4,6 +4,9 @@
 
 > This is the api for simple hello world app using react and rails
 
+## Link to front-end
+
+> https://github.com/leolpaz/hello-rails-front-end
 
 ## Built With
 
